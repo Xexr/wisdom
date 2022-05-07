@@ -1,6 +1,8 @@
-# Collective Wisdom
+## Collective Wisdom
 
 ### _to ponder and employ_
+
+![Wisdom Tree](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=450&q=80)
 
 ---
 
