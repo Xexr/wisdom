@@ -2,7 +2,7 @@
 
 ### _to ponder and employ_
 
-![Wisdom Tree](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=450&q=80)
+![Wisdom Tree](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
 
 ---
 
@@ -31,6 +31,14 @@
 - Every breakthrough is at first laughable and ridiculous. In fact if it did not start out laughable and ridiculous, it is not a breakthrough. [^first]
 
 - Rather than steering your life to avoid surprises, aim directly for them. [^first]
+
+- Show up. Keep showing up. Somebody successful said: 99% of success is just showing up. [^second]
+
+- There is no limit on better. Talent is distributed unfairly, but there is no limit on how much we can improve what we start with. [^second]
+
+- Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is. [^second]
+
+- Over the long term, the future is decided by optimists. To be an optimist you don’t have to ignore all the many problems we create; you just have to imagine improving our capacity to solve problems. [^second]
 
 ### Work, Business & Leadership
 
@@ -64,9 +72,31 @@
 
 - The best time to negotiate your salary for a new job is the moment AFTER they say they want you, and not before. Then it becomes a game of chicken for each side to name an amount first, but it is to your advantage to get them to give a number before you do. [^first]
 
+- Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better. [^second]
+
+- To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them. [^second]
+
+- To make mistakes is human. To own your mistakes is divine. Nothing elevates a person higher than quickly admitting and taking personal responsibility for the mistakes you make and then fixing them fairly. If you mess up, fess up. It’s astounding how powerful this ownership is. [^second]
+
+- You can obsess about serving your customers/audience/clients, or you can obsess about beating the competition. Both work, but of the two, obsessing about your customers will take you further. [^second]
+
+- Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement. [^second]
+
+- You are what you do. Not what you say, not what you believe, not how you vote, but what you spend your time on. [^second]
+
+- Be prepared: When you are 90% done any large project (a house, a film, an event, an app) the rest of the myriad details will take a second 90% to complete. [^second]
+
+- If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss. [^second]
+
+- Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time. [^second]
+
 ### Materialism
 
 - No one is as impressed with your possessions as you are. [^first]
+
+- Acquiring things will rarely bring you deep satisfaction. But acquiring experiences will. [^second]
+
+- Eliminating clutter makes room for your true treasures. [^second]
 
 ### Relationships
 
@@ -86,7 +116,17 @@
 
 - If you loan someone $20 and you never see them again because they are avoiding paying you back, that makes it worth $20. [^first]
 
-### Courtesy
+- Treating a person to a meal never fails, and is so easy to do. It’s powerful with old friends and a great way to make new friends. [^second]
+
+- Reading to your children regularly will bond you together and kickstart their imaginations. [^second]
+
+- The more you are interested in others, the more interesting they find you. To be interesting, be interested. [^second]
+
+- Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat. [^second]
+
+- Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison. [^second]
+
+### Courtesy & Kindness
 
 - If you stop to listen to a musician or street performer for more than a minute, you owe them a dollar. [^first]
 
@@ -95,6 +135,12 @@
 - You will be judged on how well you treat those who can do nothing for you. [^first]
 
 - It’s thrilling to be extremely polite to rude strangers. [^first]
+
+- Optimize your generosity. No one on their deathbed has ever regretted giving too much away. [^second]
+
+- Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom. [^second]
+
+- Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving. [^second]
 
 ### Communication
 
@@ -115,6 +161,18 @@
 - It’s possible that a not so smart person, who can communicate well, can do much better than a super smart person who can’t communicate well. That is good news because it is much easier to improve your communication skills than your intelligence. [^first]
 
 - When introduced to someone make eye contact and count to 4. You’ll both remember each other. [^first]
+
+- Being able to listen well is a superpower. While listening to someone you love keep asking them “Is there more?”, until there is no more. [^second]
+
+- Rule of 3 in conversation. To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time’s answer is close to the truth. [^second]
+
+- Everyone is shy. Other people are waiting for you to introduce yourself to them, they are waiting for you to send them an email, they are waiting for you to ask them on a date. Go ahead. [^second]
+
+- Don’t take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It’s amazing how often a second try works. [^second]
+
+- Don’t say anything about someone in email you would not be comfortable saying to them directly, because eventually they will read it. [^second]
+
+- How to apologize: Quickly, specifically, sincerely. [^second]
 
 ### Quality of Life
 
@@ -138,6 +196,10 @@
 
 - Your time and space are limited. Remove, give away, throw out things in your life that dont spark joy any longer in order to make room for those that do. [^first]
 
+- If you are looking for something in your house, and you finally find it, when you’re done with it, don’t put it back where you found it. Put it back where you first looked for it. [^second]
+
+- Buying tools: Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford. [^second]
+
 ### Learning
 
 - The biggest lie we tell ourselves is “I dont need to write this down because I will remember it.” [^first]
@@ -159,6 +221,18 @@
 - If your opinions on one subject can be predicted from your opinions on another, you may be in the grip of an ideology. When you truly think for yourself your conclusions will not be predictable. [^first]
 
 - The chief prevention against getting old is to remain astonished. [^first]
+
+- Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe. [^second]
+
+- Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it. [^second]
+
+- A worthy goal for a year is to learn enough about a subject so that you can’t believe how ignorant you were a year earlier. [^second]
+
+- Extraordinary claims should require extraordinary evidence to be believed. [^second]
+
+- Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you. [^second]
+
+- Rule of 7 in research. You can find out anything if you are willing to go seven levels. If the first source you ask doesn’t know, ask them who you should ask next, and so on down the line. If you are willing to go to the 7th source, you’ll almost always get your answer. [^second]
 
 ### Public Speaking
 
@@ -182,6 +256,10 @@
 
 - Purchase the most recent tourist guidebook to your home town or region. You’ll learn a lot by playing the tourist once a year. [^first]
 
+- If you lose or forget to bring a cable, adapter or charger, check with your hotel. Most hotels now have a drawer full of cables, adapters and chargers others have left behind, and probably have the one you are missing. You can often claim it after borrowing it. [^second]
+
+- On vacation go to the most remote place on your itinerary first, bypassing the cities. You’ll maximize the shock of otherness in the remote, and then later you’ll welcome the familiar comforts of a city on the way back. [^second]
+
 ### Health
 
 - Take the stairs. [^first]
@@ -192,8 +270,21 @@
 
 - Aim to die broke. Give to your beneficiaries before you die; it’s more fun and useful. Spend it all. Your last check should go to the funeral home and it should bounce. [^first]
 
+- Never use a credit card for credit. The only kind of credit, or debt, that is acceptable is debt to acquire something whose exchange value is extremely likely to increase, like in a home. The exchange value of most things diminishes or vanishes the moment you purchase them. Don’t be in debt to losers. [^second]
+
+- When you are young spend at least 6 months to one year living as poor as you can, owning as little as you possibly can, eating beans and rice in a tiny room or tent, to experience what your “worst” lifestyle might be. That way any time you have to risk something in the future you won’t be afraid of the worst case scenario. [^second]
+
+- Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth. [^second]
+
+- When you die you take absolutely nothing with you except your reputation. [^second]
+
+### Time
+
+- When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter. [^second]
+
 ---
 
 ## References
 
 [^first]: [Kevin Kelly - 103 bits of advice](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+[^second]: [Kevin Kelly - 68 bits of advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
