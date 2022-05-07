@@ -1,6 +1,6 @@
 ## Collective Wisdom
 
-### _ponder and embody those that speak to you_
+#### _think deeply and embody those that speak to you_
 
 ![Wisdom Tree](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
 
@@ -48,8 +48,6 @@
 
 - Don’t worry how or where you begin. As long as you keep moving, your success will be far from where you start. [^third]
 
-- If your goal does not have a schedule, it is a dream. [^third]
-
 - Everything is hard before it is easy. The day before something is a breakthrough, it’s a stupid idea. [^third]
 
 - This is the best time ever to make something. None of the greatest, coolest creations 20 years from now have been invented yet. You are not late. [^third]
@@ -64,6 +62,8 @@
 
 - Criticize in private, praise in public. [^first]
 
+- Always give credit, take blame. [^third]
+
 - Ask funders for money, and they’ll give you advice; but ask for advice and they’ll give you money. [^first]
 
 - Immediately pay what you owe to vendors, workers, contractors. They will go out of their way to work with you first next time. [^first]
@@ -72,17 +72,21 @@
 
 - There is no such thing as being “on time.” You are either late or you are early. Your choice. [^first]
 
-- When checking references for a job applicant, employers may be reluctant or prohibited from saying anything negative, so leave or send a message that says, “Get back to me if you highly recommend this applicant as super great.” If they don’t reply take that as a negative. [^first]
-
-- When you have some success, the feeling of being an imposter can be real. Who am I fooling? But when you create things that only you — with your unique talents and experience — can do, then you are absolutely not an imposter. You are the ordained. It is your duty to work on things that only you can do. [^first]
+- You can be whatever you want, so be the person who ends meetings early. [^first]
 
 - You cannot get smart people to work extremely hard just for money. [^first]
 
+- Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time. [^second]
+
+- When checking references for a job applicant, employers may be reluctant or prohibited from saying anything negative, so leave or send a message that says, “Get back to me if you highly recommend this applicant as super great.” If they don’t reply take that as a negative. [^first]
+
 - When you don’t know how much to pay someone for a particular task, ask them “what would be fair” and their answer usually is. [^first]
 
-- Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for [^first].
+- Train employees well enough they could get another job, but treat them well enough so they never want to. [^third]
 
-- You can be whatever you want, so be the person who ends meetings early. [^first]
+- When you have some success, the feeling of being an imposter can be real. Who am I fooling? But when you create things that only you — with your unique talents and experience — can do, then you are absolutely not an imposter. You are the ordained. It is your duty to work on things that only you can do. [^first]
+
+- Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for [^first].
 
 - When negotiating, dont aim for a bigger piece of the pie; aim to create a bigger pie. [^first]
 
@@ -104,13 +108,9 @@
 
 - If you desperately need a job, you are just another problem for a boss; if you can solve many of the problems the boss has right now, you are hired. To be hired, think like your boss. [^second]
 
-- Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time. [^second]
-
 - Recipe for success: under-promise and over-deliver. [^third]
 
 - In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of. [^third]
-
-- Train employees well enough they could get another job, but treat them well enough so they never want to. [^third]
 
 - The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility. [^third]
 
@@ -119,8 +119,6 @@
 - Your passion in life should fit you exactly; but your purpose in life should exceed you. Work for something much larger than yourself. [^third]
 
 - When you are stuck, sleep on it. Let your subconscious work for you. [^third]
-
-- Always give credit, take blame. [^third]
 
 ### Materialism
 
@@ -379,6 +377,8 @@
 - Be governed not by the tyranny of the urgent but by the elevation of the important. [^third]
 
 - Your work will be endless, but your time is finite. You cannot limit the work so you must limit your time. Hours are the only thing you can manage. [^third]
+
+- If your goal does not have a schedule, it is a dream. [^third]
 
 - Don’t let your email inbox become your to-do list. [^third]
 
