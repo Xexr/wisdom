@@ -1,6 +1,6 @@
 ## Collective Wisdom
 
-### _to ponder and employ_
+### _ponder and embody those that speak to you_
 
 ![Wisdom Tree](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
 
@@ -39,6 +39,22 @@
 - Following your bliss is a recipe for paralysis if you don’t know what you are passionate about. A better motto for most youth is “master something, anything”. Through mastery of one thing, you can drift towards extensions of that mastery that bring you more joy, and eventually discover where your bliss is. [^second]
 
 - Over the long term, the future is decided by optimists. To be an optimist you don’t have to ignore all the many problems we create; you just have to imagine improving our capacity to solve problems. [^second]
+
+- If something fails where you thought it would fail, that is not a failure. [^third]
+
+- Don’t create things to make money; make money so you can create things. The reward for good work is more work. [^third]
+
+- Contemplating the weaknesses of others is easy; contemplating the weaknesses in yourself is hard, but it pays a much higher reward. [^third]
+
+- Don’t worry how or where you begin. As long as you keep moving, your success will be far from where you start. [^third]
+
+- If your goal does not have a schedule, it is a dream. [^third]
+
+- Everything is hard before it is easy. The day before something is a breakthrough, it’s a stupid idea. [^third]
+
+- This is the best time ever to make something. None of the greatest, coolest creations 20 years from now have been invented yet. You are not late. [^third]
+
+- Take one simple thing — almost anything — but take it extremely seriously, as if it was the only thing in the world, or maybe the entire world is in it — and by taking it seriously you’ll light up the sky. [^third]
 
 ### Work, Business & Leadership
 
@@ -90,6 +106,22 @@
 
 - Experience is overrated. When hiring, hire for aptitude, train for skills. Most really amazing or great things are done by people doing them for the first time. [^second]
 
+- Recipe for success: under-promise and over-deliver. [^third]
+
+- In all things — except love — start with the exit strategy. Prepare for the ending. Almost anything is easier to get into than out of. [^third]
+
+- Train employees well enough they could get another job, but treat them well enough so they never want to. [^third]
+
+- The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility. [^third]
+
+- On the way to a grand goal, celebrate the smallest victories as if each one were the final goal. No matter where it ends you are victorious. [^third]
+
+- Your passion in life should fit you exactly; but your purpose in life should exceed you. Work for something much larger than yourself. [^third]
+
+- When you are stuck, sleep on it. Let your subconscious work for you. [^third]
+
+- Always give credit, take blame. [^third]
+
 ### Materialism
 
 - No one is as impressed with your possessions as you are. [^first]
@@ -101,6 +133,8 @@
 ### Relationships
 
 - Cultivate 12 people who love you, because they are worth more than 12 million people who like you. [^first]
+
+- Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison. [^second]
 
 - When you forgive others, they may not notice, but you will heal. Forgiveness is not something we do for others; it is a gift to ourselves. [^first]
 
@@ -124,7 +158,17 @@
 
 - Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat. [^second]
 
-- Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it was a poison. [^second]
+- Your best response to an insult is “You’re probably right.” Often they are. [^third]
+
+- Ignore what others may be thinking of you, because they aren’t. [^third]
+
+- Children totally accept — and crave — family rules. “In our family we have a rule for X” is the only excuse a parent needs for setting a family policy. In fact, “I have a rule for X” is the only excuse you need for your own personal policies. [^third]
+
+- You don’t marry a person, you marry a family. [^third]
+
+- Something does not need to be perfect to be wonderful. Especially weddings. [^third]
+
+- Be nice to your children because they are going to choose your nursing home. [^third]
 
 ### Courtesy & Kindness
 
@@ -141,6 +185,16 @@
 - Perhaps the most counter-intuitive truth of the universe is that the more you give to others, the more you’ll get. Understanding this is the beginning of wisdom. [^second]
 
 - Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving. [^second]
+
+- Leave a gate behind you the way you first found it. [^third]
+
+- The worst evils in history have always been committed by those who truly believed they were combating evil. Beware of combating evil. [^third]
+
+- If you borrow something, try to return it in better shape than you received it. Clean it, sharpen it, fill it up. [^third]
+
+- Don’t treat people as bad as they are. Treat them as good as you are. [^third]
+
+- Be a good ancestor. Do something a future generation will thank you for. A simple thing is to plant a tree. [^third]
 
 ### Communication
 
@@ -174,6 +228,14 @@
 
 - How to apologize: Quickly, specifically, sincerely. [^second]
 
+- When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?” [^third]
+
+- Calm is contagious. [^third]
+
+- Each time you reach out to people, bring them a blessing; then they’ll be happy to see you when you bring them a problem. [^third]
+
+- Every person you meet knows an amazing lot about something you know virtually nothing about. Your job is to discover what it is, and it won’t be obvious. [^third]
+
 ### Quality of Life
 
 - Efficiency is highly overrated; Goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires a good rest ethic. [^first]
@@ -199,6 +261,16 @@
 - If you are looking for something in your house, and you finally find it, when you’re done with it, don’t put it back where you found it. Put it back where you first looked for it. [^second]
 
 - Buying tools: Start by buying the absolute cheapest tools you can find. Upgrade the ones you use a lot. If you wind up using some tool for a job, buy the very best you can afford. [^second]
+
+- If you have any doubt at all about being able to carry a load in one trip, do yourself a huge favor and make two trips. [^third]
+
+- Learn how to tie a bowline knot. Practice in the dark. With one hand. For the rest of your life you’ll use this knot more times than you would ever believe. [^third]
+
+- Worth repeating: measure twice, cut once. [^third]
+
+- Writing down one thing you are grateful for each day is the cheapest possible therapy ever. [^third]
+
+- When making something, always get a few extras — extra material, extra parts, extra space, extra finishes. The extras serve as backups for mistakes, reduce stress, and fill your inventory for the future. They are the cheapest insurance. [^third]
 
 ### Learning
 
@@ -234,11 +306,19 @@
 
 - Rule of 7 in research. You can find out anything if you are willing to go seven levels. If the first source you ask doesn’t know, ask them who you should ask next, and so on down the line. If you are willing to go to the 7th source, you’ll almost always get your answer. [^second]
 
+- Being wise means having more questions than answers. [^third]
+
+- You are only as young as the last time you changed your mind. [^third]
+
+- I have never met a person I admired who did not read more books than I did. [^third]
+
 ### Public Speaking
 
 - When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details. [^first]
 
 - When speaking to an audience it’s better to fix your gaze on a few people than to “spray” your gaze across the room. Your eyes telegraph to others whether you really believe what you are saying. [^first]
+
+- People can’t remember more than 3 points from a speech. [^third]
 
 ### IT
 
@@ -264,6 +344,8 @@
 
 - Take the stairs. [^first]
 
+- You can eat any dessert you want if you take only 3 bites. [^third]
+
 ### Wealth
 
 - Actual great opportunities do not have “Great Opportunities” in the subject line. [^first]
@@ -278,9 +360,27 @@
 
 - When you die you take absolutely nothing with you except your reputation. [^second]
 
+- If someone is trying to convince you it’s not a pyramid scheme, it’s a pyramid scheme. [^third]
+
+- To be wealthy, accumulate all those things that money can’t buy. [^third]
+
+- Don’t loan money to a friend unless you are ready to make it a gift. If they are true friend, offer it as a gift at the outset. [^third]
+
+- All the greatest gains in life — in wealth, relationships, or knowledge —come from the magic of compounding interest — amplifying small steady gains. All you need for abundance is to keep adding 1% more than you subtract on a regular basis. [^third]
+
+- To succeed, get other people to pay you; to become wealthy, help other people to succeed. [^third]
+
+- Be frugal in all things, except in your passions splurge. [^third]
+
 ### Time
 
 - When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter. [^second]
+
+- Be governed not by the tyranny of the urgent but by the elevation of the important. [^third]
+
+- Your work will be endless, but your time is finite. You cannot limit the work so you must limit your time. Hours are the only thing you can manage. [^third]
+
+- Don’t let your email inbox become your to-do list. [^third]
 
 ---
 
@@ -288,3 +388,4 @@
 
 [^first]: [Kevin Kelly - 103 bits of advice](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 [^second]: [Kevin Kelly - 68 bits of advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+[^third]: [Kevin Kelly - 99 bits of advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
