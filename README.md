@@ -54,6 +54,8 @@
 
 - Take one simple thing — almost anything — but take it extremely seriously, as if it was the only thing in the world, or maybe the entire world is in it — and by taking it seriously you’ll light up the sky. [^third]
 
+- My second-grade teacher, Ms. Edson, told us: If something feels too hard to do, it just means that the first step isn’t small enough. So often when we’re struggling, we tell ourselves that it’s a sign that we’re broken or that something is our fault, and then we freeze. But when something is too hard in the moment, tell yourself Ms. Edson’s advice. [^forth]
+
 ### Work, Business & Leadership
 
 - Dont ever work for someone you dont want to become. [^first]
@@ -344,6 +346,26 @@
 
 - You can eat any dessert you want if you take only 3 bites. [^third]
 
+- When I find myself stuck in a pattern of negative thinking, I try not to complain for seven days. It retrains your brain to stop going down a negative path. I write “Don’t complain!” on a sticky note right by my bed so I see it when I wake up. - Dr. Kali D. Cyrus [^forth]
+
+- Dark-chocolate-covered nuts (at least 70 percent cocoa) are almost a perfect food. They combine two remarkable nutrient-rich foods — nuts and cocoa — and are high in phenolics, minerals, healthy fats and fiber. - Dr. Dariush Mozaffarian [^forth]
+  
+- Each year, make a commitment during your birthday month to schedule all your annual health checkups. Schedule them for anytime in the next year before your next birthday. Keeping your health in check requires consistent care. This helps make sure that you get it done. - Dr. Folasade P. May [^forth]
+
+- If you want to eat more healthfully, minimize your intake of ultraprocessed foods — concocted with nonfood ingredients, designed to be irresistible if not addictive (“You can’t eat just one”) and unable to be made in home kitchens because you don’t have the equipment or industrial ingredients. How do you recognize one? Check its ingredient list. If it’s full of chemical flavors, texturizers or colors, leave it on the shelf. - Marion Nestle [^forth]
+
+- If you wake up in the middle of the night, don’t get up (unless you really have to pee). Instead, lie on your back and do 10 rounds of 4-7-8 breathing (inhaling for four seconds, holding it for seven and exhaling for eight). Then count backward from 300 by threes. The breaths slow your heart rate, while the math keeps your mind from racing. It works so well, it’s like taking an Ambien. - Michael Breus [^forth]
+
+- I do not rinse after brushing my teeth, particularly before going to bed. It helps fluoride toothpaste be more effective. - Carlos González-Cabezas [^forth]
+
+- “Stop, Breathe, Be” is a three-second brain reset to help manage anxiety in the moment. The instructions are in the name: Stop whatever you’re doing, take a brief pause. Take a deep breath in and out. Be grounded in the present moment. “Stop, Breathe, Be” gets you out of “What if?” thinking and back to what is, in the here and now. - Dr. Aditi Nerurkar [^forth]
+
+- I’m a big fan of making fancy ice cubes by freezing lemon or lime juice with chopped berries or pineapple and herbs. These little flavor-packed cubes turn plain water into a refreshing, luxurious treat — with added vitamin C. - Emily Haller [^forth]
+
+- I don’t obsess over protein. I eat legumes every day and a reasonable variety of other plant foods, all of which contain protein. I know I’ll get as much as I need — with fiber (which never comes with animal foods) and low amounts of saturated fat. - Christopher Gardner [^forth]
+
+- Diaphragmatic breathing — using your diaphragm to take deep, controlled breaths and expand your belly, followed by exhaling slowly and letting your belly fall — stimulates vagus nerve activity and potentially reduces gastrointestinal symptoms such as bloating. I do it at bedtime for about 10 minutes. - Dr. Lin Chang [^forth]
+
 ### Wealth
 
 - Actual great opportunities do not have “Great Opportunities” in the subject line. [^first]
@@ -382,6 +404,8 @@
 
 - Don’t let your email inbox become your to-do list. [^third]
 
+- When approached with a difficult decision, we can use the “deathbed test” to help us determine which action to take. It consists of three questions: “On my deathbed, will I be mad I did it? Will I be sad I didn’t do it? Will it even matter?” The vast majority of our decisions never pass muster of mattering. - Alua Arthur [^forth]
+
 ---
 
 ## References
@@ -389,3 +413,4 @@
 [^first]: [Kevin Kelly - 103 bits of advice](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 [^second]: [Kevin Kelly - 68 bits of advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 [^third]: [Kevin Kelly - 99 bits of advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
+[^forth]: [35 Simple Health Tips Experts Swear By](https://www.nytimes.com/interactive/2025/01/12/well/health-tips-experts.html?unlocked_article_code=1.pE4.e_Kp.YpN-YyxCH9MF)
